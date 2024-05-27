@@ -17,5 +17,3 @@ env/
 node_modules/
 
 .vscode/
-blog/templates/blog/about.html
-blog/templates/blog/home.html
