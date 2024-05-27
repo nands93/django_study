@@ -1,0 +1,19 @@
+# Ignore arquivos e diretórios de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.py[cod]
+
+# Outros arquivos e diretórios comuns a serem ignorados
+.env
+*.env
+*.log
+*.sqlite3
+*.DS_Store
+
+# Diretórios de dependências
+venv/
+env/
+node_modules/
+
+.vscode/
